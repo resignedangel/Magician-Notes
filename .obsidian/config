@@ -1,0 +1,27 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true
+  },
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "SaaS",
+    "SaaS",
+    "onboarding",
+    "signups",
+    "signup",
+    "virality",
+    "KPIs",
+    "analytics",
+    "freemium",
+    "peasy"
+  ],
+  "attachmentFolderPath": "Images"
+}

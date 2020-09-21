@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "495509f112192e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "686b72b10917c614",
+        "type": "leaf",
+        "dimension": 45.67062818336163,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Module 1 - Niche Clarity and Ideal Client Attraction.md",
+            "mode": "source"
+          }
+        },
+        "group": "337e130ddfb755a6"
+      },
+      {
+        "id": "b2f63f2e24318beb",
+        "type": "leaf",
+        "dimension": 54.32937181663837,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Module 1 - Niche Clarity and Ideal Client Attraction.md",
+            "mode": "preview"
+          }
+        },
+        "group": "337e130ddfb755a6"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a2037ee1e2796f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4491fc67a8c2dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18ec6b2998cc1f7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "53430774a16c1539",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#metrics"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354
+  },
+  "right": {
+    "id": "c80ceeb852960b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "b799457200f009fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847c9888480924b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Module 1 - Niche Clarity and Ideal Client Attraction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Module 1 - Niche Clarity and Ideal Client Attraction.md",
+    "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Untitled.md",
+    "Marketing & Business/Marketing/BUILDING A B2C2B CONTENT STRATEGY.md",
+    "Marketing & Business/Marketing/Can You Run Multiple AB Tests at the Same Time.md",
+    "Marketing & Business/Growth/Measuring For Growth Understanding Your Data & Next Steps.md",
+    "Images/Pasted image.png",
+    "Images/Pasted image 9.png",
+    "Pasted image 9.png",
+    "Pasted image 21.png",
+    "Pasted image.png"
+  ]
+}
