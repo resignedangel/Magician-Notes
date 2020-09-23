@@ -6,12 +6,12 @@
       {
         "id": "686b72b10917c614",
         "type": "leaf",
-        "dimension": 45.67062818336163,
+        "dimension": 49.85486211901306,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marketing & Business/Business/Lurn Summit/Bob Proctor Keynote.md",
+            "file": "Marketing & Business/Growth/The Best B2B Growth Hacks — 21 Tactics to Test.md",
             "mode": "source"
           }
         },
@@ -20,11 +20,11 @@
       {
         "id": "b2f63f2e24318beb",
         "type": "leaf",
-        "dimension": 54.32937181663837,
+        "dimension": 50.14513788098694,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Marketing & Business/Business/Lurn Summit/Bob Proctor Keynote.md",
+            "file": "Marketing & Business/Growth/The Best B2B Growth Hacks — 21 Tactics to Test.md",
             "mode": "preview"
           }
         },
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 100
   },
   "right": {
     "id": "c80ceeb852960b51",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing & Business/Business/Lurn Summit/Bob Proctor Keynote.md"
+                "file": "Marketing & Business/Growth/The Best B2B Growth Hacks — 21 Tactics to Test.md"
               }
             }
           }
@@ -92,14 +92,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "Personal Development/Productivity Systems/Lengold Cosmos/5 мастер-классов по agile-планированию.md",
-    "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Module 1 - Niche Clarity and Ideal Client Attraction.md",
-    "README.md",
-    "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Untitled.md",
+    "Marketing & Business/Business/Lurn Summit/Building Your Bisoness (Overview).md",
+    "Marketing & Business/Business/Lurn Summit/Bob Proctor Keynote.md",
+    "Marketing & Business/Business/What’s one thing you’ve learned at Harvard Business School that blew your mind.md",
     "Marketing & Business/Marketing/BUILDING A B2C2B CONTENT STRATEGY.md",
     "Marketing & Business/Marketing/Can You Run Multiple AB Tests at the Same Time.md",
-    "Marketing & Business/Growth/Measuring For Growth Understanding Your Data & Next Steps.md",
-    "Images/Pasted image.png",
-    "Images/Pasted image 9.png"
+    "Pasted image.png",
+    "Personal Development/Productivity Systems/Lengold Cosmos/5 мастер-классов по agile-планированию.md",
+    "Marketing & Business/Social Media/Instagram/BossBabe - Insta Growth Accelerator/Module 1 - Niche Clarity and Ideal Client Attraction.md",
+    "README.md"
   ]
 }

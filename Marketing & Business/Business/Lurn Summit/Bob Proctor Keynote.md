@@ -23,5 +23,4 @@
 - Operate with faith, not fear
 - Both demand you believe in something you can't see
 - *Why choose fear?*
-- 
 
