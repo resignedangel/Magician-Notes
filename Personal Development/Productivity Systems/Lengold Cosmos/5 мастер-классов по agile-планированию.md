@@ -29,6 +29,20 @@ Source: https://vimeo.com/458038770/6962d22f56
 ![[Pasted image 35.png]]
 ![[Pasted image 36.png]]
 
+## 3 эфир. Agile привычки
+
+Source: https://vimeo.com/458038807/63b6b46c2b
+
+![[Pasted image 20200924111443.png]]
+![[Pasted image 20200924111817.png]]
+![[Pasted image 20200924113220.png]]
+![[Pasted image 20200924113606.png]]
+![[Pasted image 20200924114101.png]]
+![[Pasted image 20200924114256.png]]
+![[Pasted image 20200924114427.png]]
+
+
+
 
 
 
